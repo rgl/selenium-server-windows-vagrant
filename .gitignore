@@ -1,0 +1,7 @@
+.vagrant/
+*.class
+selenium-server.*
+IEDriver*
+chromedriver*
+screenshot.png
+setup-finished.txt
