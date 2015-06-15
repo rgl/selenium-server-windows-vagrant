@@ -11,6 +11,7 @@ public class Test {
     public static void main(String[] args) throws Exception {
         if (args.length != 1) {
             System.err.println("Usage: <webdriver port>");
+            System.exit(1);
             return;
         }
 
